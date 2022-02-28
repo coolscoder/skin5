@@ -71,6 +71,7 @@
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: -12px;
+    color: transparent;
     -webkit-text-stroke: 1px white;
   }
 
